@@ -1,0 +1,29 @@
+# BTT-MLF
+Machine Learning Foundations summer course for Break Through Tech. 
+This repo covers:
+- Unit 1: Machine Learning in a Nutshell
+    - ML Problem Types
+    - ML LifeCycle
+- Unit 2: Manage Data in ML
+    - Data Matrix
+    - One-Hot Encoding
+    - Visualization
+    - Correlation
+    - Outliers
+- Unit 3: Training Common ML Models
+    - K Nearest Neighbours
+    - Decision Trees
+- Unit 4: Train a Linear Model
+    - Logistic Regression
+    - Linear Regression
+    - Inverse Logit and Log Loss
+    - Gradient Descent
+    - Regularization
+- Unit 5: Evaluate and Deploy Your Model
+    - Out of Sample Validation
+    - Model Selection
+    - Cross Validation
+    - Feature Selection
+    - Confusion Matrix - ROC-AUC
+    - Deploying, Hosting, Monitoring
+- Unit 6: Deep Learning and Computer Vision
