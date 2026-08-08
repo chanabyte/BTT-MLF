@@ -27,3 +27,5 @@ This repo covers:
     - Confusion Matrix - ROC-AUC
     - Deploying, Hosting, Monitoring
 - Unit 6: Deep Learning and Computer Vision
+    - Deep Learning
+    - Computer Vision
