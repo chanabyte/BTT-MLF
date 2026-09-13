@@ -28,4 +28,6 @@ This repo covers:
     - Deploying, Hosting, Monitoring
 - Unit 6: Deep Learning and Computer Vision
     - Deep Learning
-    - Computer Vision
+    - Neural Nets for Computer Vision
+- Unit 7: NLPs and LLMs
+  
